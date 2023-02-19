@@ -2,5 +2,5 @@
     "port": "COM5",
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
-    "sketch": "Sketches\\test\\test.ino"
+    "sketch": "servo\\servo.ino"
 }

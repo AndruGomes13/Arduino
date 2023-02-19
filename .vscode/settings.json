@@ -1,3 +1,4 @@
 {
-    "arduino.path": "D:\\Program Files (x86)\\Arduino"
+    "arduino.path": "D:\\arduino-cli",
+    "arduino.useArduinoCli": true
 }
