@@ -2,5 +2,5 @@
     "port": "COM5",
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
-    "sketch": "Sketches\\oled_screen\\oled_screen.ino"
+    "sketch": "Pong\\Pong.ino"
 }
